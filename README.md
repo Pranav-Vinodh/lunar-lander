@@ -34,3 +34,5 @@ PyTorch
 NumPy
 Matplotlib
 Thank you for checking out this project! If you have any questions or feedback, feel free to open an issue or reach out.
+![image](https://github.com/Pranav-Vinodh/lunar-lander/assets/144201810/fd3c38eb-57fb-47cb-8d08-6e78fc994966)
+
